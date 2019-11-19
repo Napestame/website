@@ -1,3 +1,21 @@
-body{
-       Background-color: ; 
+ body{
+       Background-color:white ; 
        background-image: url("Marble-floor.png");
+       font-family: Georgia;
+       font-size: 13px;
+       color: #87CEEB;
+} 
+ 
+  ul{ 
+       list-style-type: none;
+       margin: 0; 
+       padding: 0; 
+}
+  a{ 
+       color: #FF7F50;
+       text-direction: none;
+}
+  h1{ 
+       color: #9370D8;
+       font-size: 20px; 
+}
